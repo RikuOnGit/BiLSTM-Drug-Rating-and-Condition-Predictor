@@ -66,7 +66,7 @@ Despite the complexity of the dataset and the large number of classes, the model
 
 ```
 📦 project-root
-├── bilstm_rating_condition.ipynb             # Main notebook (full project)
+├── bilstm_rating_condition.ipynb            # Main notebook (full project)
 ├── README.md                                # Project documentation
 ├── pyproject.toml                           # Project dependencies (uv)
 └── requirements.txt (optional)              # Full environment export
@@ -144,9 +144,3 @@ Potential extensions:
 - Hierarchical condition grouping
 - Multi-label condition prediction
 - Token-level importance visualization
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
